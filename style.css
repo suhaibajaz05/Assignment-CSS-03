@@ -1,0 +1,50 @@
+body {
+    background-color: #4485fe;
+}
+
+.Login_Form{
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    align-content: center;
+}
+
+h2 {
+    border-bottom: 2px solid lightgray;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid #4485fe;
+
+}
+
+.forget_left-align {
+    text-align: left;
+    width: 250px;
+}
+
+#forgot_password{
+    color: gray;
+    text-decoration: none;
+    text-align: left;
+    font-size: 13px;
+}
+
+#Login{
+    background-color: #4485fe;
+    color: white;
+    border-radius: 10px;
+}
+
+#a{
+    color: gray;
+}
+
+#b{
+    color: #4485fe;
+    text-decoration: none;
+}
